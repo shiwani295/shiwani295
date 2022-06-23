@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning SQL by LinkedIn 
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me out on instagram @shiwani___tiwari 
+- Reach out LEETCODE-https://leetcode.com/shiwani___tiwari/
+- Reach out HackerRank-https://www.hackerrank.com/shiwanitiwarish1
+- 
+- 
 
 <!---
 shiwani295/shiwani295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
