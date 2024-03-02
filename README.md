@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivani Tiwari</h1>
-<h3 align="center">A passionate React JS Web developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwani295&label=Profile%20views&color=0e75b6&style=flat" alt="shiwani295" /> </p>
 
-- 🌱 I’m currently learning **ReactJs ,Python,Node.js **
+- 🌱 I’m currently learning **Nextjs , Framer Motion , Node.js, GSAP and much more  **
 - 👨‍💻 All of my projects are available at [https://github.com/shiwani295](https://github.com/shiwani295)
 - 📝 I regularly write articles on [https://dev.to/shiwani295](https://dev.to/shiwani295)
-- 💬 Ask me about **React,HTML,CSS,BOOTSTRAP,Firebase And All**
+- 💬 Ask me about **React, Redux, Tailwind CSS,HTML, CSS, BOOTSTRAP, Firebase And All**
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ORXZq0WHlQu6rfRPNCRTue9EeCAZw4CjKyBR8DwkFG4/edit?usp=sharing](https://docs.google.com/document/d/1ORXZq0WHlQu6rfRPNCRTue9EeCAZw4CjKyBR8DwkFG4/edit?usp=sharing)
 
 
