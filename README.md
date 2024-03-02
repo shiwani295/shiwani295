@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwani295&label=Profile%20views&color=0e75b6&style=flat" alt="shiwani295" /> </p>
 
-- 🌱 I’m currently learning **Nextjs , Framer Motion , Node.js, GSAP and much more  **
+- 🌱 I’m currently learning **Nextjs, Framer Motion, Node.js, GSAP, and much more  **
 - 👨‍💻 All of my projects are available at [https://github.com/shiwani295](https://github.com/shiwani295)
-- 📝 I regularly write articles on [https://dev.to/shiwani295](https://dev.to/shiwani295)
-- 💬 Ask me about **React, Redux, Tailwind CSS,HTML, CSS, BOOTSTRAP, Firebase And All**
+- 📝 I  write articles on [https://dev.to/shiwani295](https://dev.to/shiwani295)
+- 💬 Ask me about **React, Redux, Tailwind CSS, HTML, CSS, BOOTSTRAP, Firebase And All**
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ORXZq0WHlQu6rfRPNCRTue9EeCAZw4CjKyBR8DwkFG4/edit?usp=sharing](https://docs.google.com/document/d/1ORXZq0WHlQu6rfRPNCRTue9EeCAZw4CjKyBR8DwkFG4/edit?usp=sharing)
 
 
